@@ -15,9 +15,8 @@
 
 ###
 
-<div align="right">
-  <img height="200" src="https://media.giphy.com/media/fYrHfn6NDJ4aR9kztw/giphy.gif?cid=ecf05e47gwjbbtzwmkntueitb6abrxkqi4j6ciyaqhmknr8z&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
-</div>
+<img align="right" height="150" src="[https://i.imgflip.com/65efzo.gif](https://media.giphy.com/media/fYrHfn6NDJ4aR9kztw/giphy.gif?cid=ecf05e47gwjbbtzwmkntueitb6abrxkqi4j6ciyaqhmknr8z&ep=v1_gifs_search&rid=giphy.gif&ct=g)"  />
+
 
 ###
 
