@@ -1,19 +1,7 @@
 <h2 align="left">Hi 👋! My name is jhessyca and I'm a front end developer</h2>
 
 
-<div align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=jhessyvi&show_icons=true&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true"
-    height="150"
-    alt="GitHub Stats"
-  />
 
-  <img
-    src="https://raw.githubusercontent.com/jhessyvi/jhessyvi/languages-output/languages.svg"
-    height="150"
-    alt="Most Used Languages"
-  />
-</div>
 
 ###
 
