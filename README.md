@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is jhessyca and I'm a front end developer</h2>
+<h2 align="left">Hi 👋! My name is jhessyca</h2>
 
 
 <div data-importer="stats" align="center">
